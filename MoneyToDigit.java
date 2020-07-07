@@ -20,7 +20,7 @@ public class MoneyToDigit {
 		map.put('Ал', 100);
 		map.put('ЧЊ', 1000);
 		map.put('Эђ', 10000);
-		map.put('вк', 100000000);
+	 // map.put('вк', 100000000);
 	}
 	
 	
